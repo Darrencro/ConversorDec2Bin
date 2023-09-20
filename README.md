@@ -13,7 +13,7 @@
 Si por ejemplo queremos transformar el numero -36 a binario con 8 bits este seria el resultado
 ![image](https://github.com/Darrencro/ConversorDec2Bin/assets/144936611/4bf99fee-6303-4052-be9a-dc39193a26a9)
 
-[!IMPORTANT]
-El codigo te permite convertir **tanto _numeros naturales_ como _numeros negativos_**, pero dara error si agregas algun decimal o algun espacio de más
+>[!NOTE]
+>El codigo te permite convertir **tanto _numeros naturales_ como _numeros negativos_**, pero dara error si agregas algun decimal o algun espacio de más
 
 Muchas gracias por leer 🤠
